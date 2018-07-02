@@ -19,4 +19,3 @@ Output of filter in JDK1.8:
 Apple
 Banana
 Biberry
-
